@@ -40,4 +40,4 @@ jobs:
           push: ${{ github.ref == 'refs/heads/master' }}
           platforms: linux/amd64,linux/arm64
           tags: |
-            docker.io/adamab48/oc:v${{ matrix.oc }}
+            docker.io/adamab/oc:v${{ matrix.oc }}
