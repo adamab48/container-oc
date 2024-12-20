@@ -13,7 +13,7 @@ A container image that can be used in CI/CD pipelines to deploy apps to OpenShif
 
 Also ships the binaries for `helm`, `kustomize`, `kubeval`, `sops`, `yq` and Python3, for your convenience.
 
-## Container Images
+## Container Image
 
 The built images are available from [Docker Hub][hub] and [Red Hat Quay.io][quay]
 
